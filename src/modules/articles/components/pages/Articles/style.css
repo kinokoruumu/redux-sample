@@ -1,0 +1,11 @@
+.articles-container {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: wrap;
+}
+
+.list {
+  width: 340px;
+  padding-bottom: 2rem;
+  list-style: none;
+}
